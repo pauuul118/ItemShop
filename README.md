@@ -1,12 +1,9 @@
-Pickaxe_ID_215_Pug, 500
-CID_760_Athena_Commando_F_NeonTightSuit, 2000
-Pickaxe_ID_389_DonutPlate1H, 800
-na
-na
-na
-CID_362_Athena_Commando_F_BandageNinja, 1200
-EID_ArmUpDance, 500
-CID_546_Athena_Commando_F_TacticalRed, 1200
-CID_612_Athena_Commando_F_StreetOpsPink, 1200
-BID_487_WinterHunterFemale, 300
-Glider_ID_095_Witch, 1200
+CID_386_Athena_Commando_M_StreetOpsStealth, 2500
+CID_387_Athena_Commando_F_Golf, 1200
+CID_315_Athena_Commando_M_TeriyakiFish, 1200
+CID_083_Athena_Commando_F_Tactical, 2500
+Pickaxe_ID_013_Teslacoil, 2500
+Pickaxe_ID_294_CandyCane, 2500
+EID_TakeTheL, 2000
+EID_HipHopS7, 800
+Pickaxe_ID_014_WinterCamo, 500
